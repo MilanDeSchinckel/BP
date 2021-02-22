@@ -2859,7 +2859,12 @@
     <bcf:datasource type="file" datatype="bibtex">voorstel.bib</bcf:datasource>
   </bcf:bibdata>
   <bcf:section number="0">
-    <bcf:citekey order="1">Doll1954</bcf:citekey>
+    <bcf:citekey order="1">Maria Schuld</bcf:citekey>
+    <bcf:citekey order="1">Ilya Sinayskiy</bcf:citekey>
+    <bcf:citekey order="1">and Francesco Pertruccione</bcf:citekey>
+    <bcf:citekey order="1">2014</bcf:citekey>
+    <bcf:citekey order="2">Vincente Moret-Bonillo</bcf:citekey>
+    <bcf:citekey order="2">2014</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="apa">
